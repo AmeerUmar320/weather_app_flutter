@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'models/weather.dart'; // Correct import
-import 'services/weather_service.dart'; // Correct import
+import 'models/weather.dart';
+import 'services/weather_service.dart';
 
 
 void main() {
